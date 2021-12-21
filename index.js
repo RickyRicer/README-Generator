@@ -9,19 +9,48 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'What would you like to include for a description?',
+        message: `Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
+        - What was your motivation?
+        - Why did you build this project?
+        - What problem does it solve?
+        - What did you learn?`,
         name: 'description',
       },
       {
         type: 'input',
-        message: 'Create a table of content:',
+        message: 'Create a table of contents:',
         name: 'tableOfContent',
+      },
+      {
+        type: 'input',
+        message: 'What steps are required to install your project?',
+        name: 'installation',
+      },
+      {
+        type: 'input',
+        message: 'Provide instructions and examples for use. Include screenshots as needed.',
+        name: 'usage',
+      },
+      {
+        type: 'input',
+        message: `List your collaborators, if any, with links to their GitHub profiles.
+        If you used any third-party assets that require attribution, list the creators with links to their primary web presence in this section.
+        If you followed tutorials, include links to those here as well.`,
+        name: 'credits',
       },
       {
         type: 'list',
         message: 'Select a license:',
         name: 'license',
-        choices: [ 'Bulbasaur', 'Squirtle', 'Charmander']
+        choices: [ 'Apache License 2.0', 
+          'BSD 3-Clause "New" or "Revised" license',
+          'BSD 2-Clause "Simplified" or "FreeBSD" license',
+          'GNU General Public License (GPL)',
+          'GNU Library or "Lesser" General Public License (LGPL)',
+          'MIT license',
+          'Mozilla Public License 2.0',
+          'Common Development and Distribution License',
+          'Eclipse Public License version 2.0',]
       },
 ];
 
