@@ -13,10 +13,15 @@ const questions = [
         name: 'description',
       },
       {
-        type: 'checkbox',
+        type: 'input',
         message: 'Create a table of content:',
         name: 'tableOfContent',
-        choices: [ '']
+      },
+      {
+        type: 'list',
+        message: 'Select a license:',
+        name: 'license',
+        choices: [ 'Bulbasaur', 'Squirtle', 'Charmander']
       },
 ];
 
