@@ -10,17 +10,17 @@ const questions = [
       },
       {
         type: 'input',
+        message: 'Create a table of contents:',
+        name: 'tableOfContent',
+      },
+      {
+        type: 'input',
         message: `Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
         - What was your motivation?
         - Why did you build this project?
         - What problem does it solve?
         - What did you learn?`,
         name: 'description',
-      },
-      {
-        type: 'input',
-        message: 'Create a table of contents:',
-        name: 'tableOfContent',
       },
       {
         type: 'input',
