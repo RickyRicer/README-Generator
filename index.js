@@ -58,7 +58,10 @@ const questions = [
 inquirer.prompt(questions)
 
 // TODO: Create a function to write README file
-function writeToFile(fileName, data) {}
+function writeToFile(fileName, data) {
+  let title;
+   
+}
 // fs.writeFile('README.md', (err) => err ? console.error(err) : console.log('Success!')
 // );
 
