@@ -41,7 +41,7 @@ const questions = [
       },
       {
         type: 'input',
-        message: 'Testing placeholder',
+        message: 'Provide information about testing performed for your project.',
         name: 'tests',
       },
       {
@@ -65,15 +65,15 @@ const questions = [
         type: 'list',
         message: 'Select a license:',
         name: 'license',
-        choices: [ 'Apache 2.0', 
-          'BSD 3-Clause "New" or "Revised" license',
-          'BSD 2-Clause "Simplified" or "FreeBSD" license',
-          'GNU General Public License (GPL)',
-          'GNU Library or "Lesser" General Public License (LGPL)',
+        choices: [ 'Apache', 
+          'Academic',
+          'GNU',
+          'GPL',
+          'LGPL',
           'MIT',
-          'Mozilla Public License 2.0',
-          'Common Development and Distribution License',
-          'Eclipse Public License version 2.0',]
+          'Mozilla',
+          'Open',
+          ]
       },
 ];
 
