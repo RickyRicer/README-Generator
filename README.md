@@ -1,9 +1,9 @@
-# hello 👋
+# Readme Generator 👋
  
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)
 
 ## Description
-🔍 ok
+🔍 This was a homework assignment
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -13,25 +13,25 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-💾 no
+💾 Steps
 ## Usage
-💻 yes
+💻 ok
 
 ## License
-![badge](https://img.shields.io/badge/license-MIT-brightgreen)
+![badge](https://img.shields.io/badge/license-Mozilla-brightgreen)
 <br />
-This application is covered by the MIT license. 
+This application is covered by the Mozilla license. 
 ## Contributing
-👪 ok
+👪 
 ## Tests
 ✏️ 
 ## Questions
 ✋ If you have any questions, please contact me through email or github, listed below:<br />
 <br />
-Find me on GitHub: [](https://github.com/)<br />
+Find me on GitHub: [rickyricer](https://github.com/rickyricer)<br />
 <br />
-✉️ Email me with any questions: <br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com//README-Generator) 🔥🔥🔥_
+✉️ Email me with any questions: rick.ansay@gmail.com<br /><br />
+🖖_This README was generated with ❤️ by [README-generator](https://github.com/rickyricer/README-Generator) 🔥🔥🔥_
     ;
   }
 

@@ -49,7 +49,7 @@ This application is covered by the ${data.license} license.
 Find me on GitHub: [${data.github}](https://github.com/${data.github})<br />
 <br />
 ✉️ Email me with any questions: ${data.email}<br /><br />
-_This README was generated with ❤️ by [README-generator](https://github.com/${data.github}/README-Generator) 🔥🔥🔥_
+🖖_This README was generated with ❤️ by [README-generator](https://github.com/${data.github}/README-Generator) 🔥🔥🔥_
     ;
   }
 
