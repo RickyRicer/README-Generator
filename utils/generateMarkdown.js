@@ -20,8 +20,6 @@ function generateMarkdown(data) {
  
 ${renderLicenseBadge(data.license)}
 
-## Description
-🔍 ${data.description}
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
@@ -30,11 +28,12 @@ ${renderLicenseBadge(data.license)}
 - [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
+## Description
+🔍 ${data.description}
 ## Installation
 💾 ${data.installation}
 ## Usage
 💻 ${data.usage}
-
 ## License
 ![badge](https://img.shields.io/badge/license-${data.license}-brightgreen)
 <br />
@@ -51,9 +50,7 @@ Find me on GitHub: [${data.github}](https://github.com/${data.github})<br />
 ✉️ Email me with any questions: ${data.email}<br /><br />
 🖖_This README was generated with ❤️ by [README-generator](https://github.com/${data.github}/README-Generator) 🔥🔥🔥_
     ;
-  }
+  `};
 
-`;
-}
 
 module.exports = generateMarkdown;
