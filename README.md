@@ -1,6 +1,6 @@
-#  👋
+# Hi 👋
  
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Table of Contents
 - [Description](#description)
@@ -11,15 +11,15 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Description
-🔍 
+🔍 This is a description
 ## Installation
 💾 
 ## Usage
 💻 
 ## License
-[![License](https://img.shields.io/badge/License-Boost%201.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 <br />
-This application is covered by the Open license. 
+This application is covered by the MIT license. 
 ## Contributing
 👪 
 ## Tests
@@ -31,5 +31,5 @@ Find me on GitHub: [](https://github.com/)<br />
 <br />
 ✉️ Email me with any questions: <br /><br />
 🖖_This README was generated with ❤️ by [README-generator](https://github.com//README-Generator) 🔥🔥🔥_
-    ;
+    
   
