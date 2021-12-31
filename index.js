@@ -17,10 +17,7 @@ const questions = [
       // },
       {
         type: 'input',
-        message: `Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-        - What was your motivation?
-        - Why did you build this project?
-        
+        message: `Provide a short description explaining the what, why, and how of your project.`,
         name: 'description',
       },
       {
