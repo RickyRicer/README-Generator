@@ -1,4 +1,4 @@
-# Hi 👋
+# New Readme 👋
  
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -11,9 +11,9 @@
 - [Tests](#tests)
 - [Questions](#questions)
 ## Description
-🔍 This is a description
+🔍 This is a readme generator
 ## Installation
-💾 
+💾 NPM Install
 ## Usage
 💻 
 ## License
@@ -27,9 +27,9 @@ This application is covered by the MIT license.
 ## Questions
 ✋ If you have any questions, please contact me through email or github, listed below:<br />
 <br />
-Find me on GitHub: [](https://github.com/)<br />
+Find me on GitHub: [rickyricer](https://github.com/rickyricer)<br />
 <br />
-✉️ Email me with any questions: <br /><br />
-🖖_This README was generated with ❤️ by [README-generator](https://github.com//README-Generator) 🔥🔥🔥_
+✉️ Email me with any questions: rick.ansay@gmail.com<br /><br />
+🖖_This README was generated with ❤️ by [README-generator](https://github.com/rickyricer/README-Generator) 🔥🔥🔥_
     
   

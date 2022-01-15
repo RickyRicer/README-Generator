@@ -44,6 +44,7 @@ ${renderLicenseBadge(data.license)}
 This application is covered by the ${data.license} license. 
 ## Contributing
 👪 ${data.contributing}
+You can contribute to this project by adhering to the code of conduct as mentioned: [here](https://www.contributor-covenant.org/#:~:text=Contributor%20Covenant%20is%20a%20code,that%20distinguish%20your%20own%20community)
 ## Tests
 ✏️ ${data.tests}
 ## Questions
